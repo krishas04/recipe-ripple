@@ -1,4 +1,4 @@
-# fitness
+# recipe-ripple
 
 A new Flutter project.
 
